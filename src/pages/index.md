@@ -67,7 +67,7 @@ sections:
         image: images/feature.svg
         image_position: right
         actions:
-          - label: Learn More
+          - label: En savoir plus
             url: /features
             style: secondary
   - type: blog_feed_section
