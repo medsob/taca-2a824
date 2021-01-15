@@ -50,10 +50,19 @@ sections:
             url: /features
             style: secondary
       - title: Formation
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          Forts de notre retour d’expérience en accompagnement de changement
+          auprès de nos différents clients, nous avons développé une offre
+          adaptée à vos besoins
+
+
+          *   Formations intra/inter-entreprises.
+
+
+          *   Dans nos locaux ou chez vous.
+
+
+          *   Formations standards ou sur mesure.
         align: left
         image: images/feature.svg
         image_position: right
