@@ -8,10 +8,7 @@ sections:
   - type: features_section
     features:
       - title: Conseil
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: "*En fonction de vos besoin spécifique, nous vous accompagnons tout au long de vos projets dans les domaines suivants\_: *\n\n*   *Assistance à maitrise d’ouvrage / direction de projet *\n\n*   *Architecture du SI *\n\n*   *Gestion de projet *\n\n*   *Conseil en technologie *\n"
         align: left
         image: images/feature.svg
         image_position: right
