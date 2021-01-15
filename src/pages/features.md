@@ -3,7 +3,7 @@ title: Features
 sections:
   - type: hero_section
     title: Métiers
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: Texte explication
     align: center
   - type: features_section
     features:
