@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: Qui sommes-nous ?
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Nous sommes une société spécialisée dans le conseil et la réalisation des
+      solutions informatiques, constituée de passionnés, experts en nouvelles
+      technologies, basée sur la région parisienne.
     actions:
       - label: Learn More
         url: /features
