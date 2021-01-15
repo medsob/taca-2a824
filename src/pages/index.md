@@ -46,7 +46,7 @@ sections:
         image: images/feature.svg
         image_position: left
         actions:
-          - label: Learn More
+          - label: En savoir plus
             url: /features
             style: secondary
       - title: Feature 3
