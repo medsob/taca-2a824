@@ -40,7 +40,7 @@ sections:
           - label: En savoir plus
             url: /features
             style: secondary
-      - title: Feature 2
+      - title: Développement et déploiement des solutions
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
