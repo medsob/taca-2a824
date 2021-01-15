@@ -76,9 +76,7 @@ sections:
     recent_count: 3
   - type: cta_section
     title: Secteurs
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: L’accompagnement de nos différents clients
     actions:
       - label: Learn More
         url: /features
