@@ -8,7 +8,7 @@ tags:
   - Stackbit
   - Netlify
 image: images/5.png
-excerpt: "⦁\tJAVASCRIPT⦁\tREACTJS⦁\tANGULAR"
+excerpt: ''
 template: post
 ---
 
