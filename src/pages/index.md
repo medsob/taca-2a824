@@ -6,7 +6,11 @@ sections:
     subtitle: >-
       Nous sommes une société spécialisée dans le conseil et la réalisation des
       solutions informatiques, constituée de passionnés, experts en nouvelles
-      technologies, basée sur la région parisienne.
+      technologies, basée sur la région parisienne.Nous accompagnons nos clients
+      dans toutes les étapes de réalisation de leurs projets IT.Nous nous
+      appuyons sur les nouvelles technologies et méthodologies tout en gardant
+      le sens des réalités pour vous fournir des solutions personnalisées et
+      adaptées à vos exigences.
     actions:
       - label: Learn More
         url: /features
