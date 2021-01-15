@@ -41,7 +41,7 @@ sections:
             url: /features
             style: secondary
       - title: Développement et déploiement des solutions
-        content: "TACA vous accompagne dans la conception et la mise en œuvre de votre SI et vos solutions informatiques. \n\nNotre éthique de travail est basée sur la satisfaction du client en assurant des prestations de qualité pour les prestations proposées\_: \n\n*   Recueil du besoin\n\n*   Rédaction des spécification fonctionnelles\n\n*   Conception et développement\n\n*   Qualité Assurance (Tests et recettes)\n\n*   Maintenance applicative\n\n*   Support applicatif\n\n"
+        content: "TACA vous accompagne dans la conception et la mise en œuvre de votre SI et vos solutions informatiques.\n\nNotre éthique de travail est basée sur la satisfaction du client en assurant des prestations de qualité pour les prestations proposées\_:\n\n*   Recueil du besoin\n\n*   Rédaction des spécification fonctionnelles\n\n*   Conception et développement\n\n*   Qualité Assurance (Tests et recettes)\n\n*   Maintenance applicative\n\n*   Support applicatif\n"
         align: left
         image: images/feature.svg
         image_position: left
