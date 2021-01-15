@@ -76,7 +76,9 @@ sections:
     recent_count: 3
   - type: cta_section
     title: Secteurs
-    subtitle: L’accompagnement de nos différents clients
+    subtitle: >-
+      L’accompagnement de nos différents clients nous a permis d’acquérir de
+      solide connaissance et une importante expérience dans divers secteurs :
     actions:
       - label: En savoir plus
         url: /features
