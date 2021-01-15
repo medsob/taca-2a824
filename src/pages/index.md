@@ -78,7 +78,7 @@ sections:
     title: Secteurs
     subtitle: L’accompagnement de nos différents clients
     actions:
-      - label: Learn More
+      - label: En savoir plus
         url: /features
         style: primary
     has_background: true
