@@ -9,7 +9,7 @@ tags:
   - JAMstack
   - Sourcebit
 image: images/4.png
-excerpt: "⦁\tREACT NATIVE⦁\tANDROID⦁\tIOS⦁\tFLUTTER"
+excerpt: ''
 template: post
 ---
 
