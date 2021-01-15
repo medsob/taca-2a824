@@ -84,7 +84,8 @@ sections:
     has_background: true
     background_color: gray
   - title: lorem-ipsum
-    team: []
+    team:
+      - src/data/team/person-56njoapt5.json
     type: team_section
 template: advanced
 ---
