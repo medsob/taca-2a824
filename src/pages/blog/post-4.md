@@ -4,7 +4,6 @@ date: '2020-05-30'
 categories:
   - src/data/categories/tutorials.yaml
 tags:
-  - JAMstack
   - Sourcebit
 image: images/4.png
 excerpt: ''
