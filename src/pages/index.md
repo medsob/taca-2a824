@@ -32,7 +32,7 @@ sections:
     title: Métiers
     features:
       - title: Conseil
-        content: "En fonction de vos besoin spécifique, nous vous accompagnons tout au long de vos projets dans les domaines suivants\_:\n\n*    Assistance à maitrise d’ouvrage / direction de projet\n\n*   Architecture du SI\n\n*   Gestion de projet\n\n*   Conseil en technologie\n"
+        content: "En fonction de vos besoin spécifique, nous vous accompagnons tout au long de vos projets dans les domaines suivants\_:\n\n*   Assistance à maitrise d’ouvrage / direction de projet\n\n*   Architecture du SI\n\n*   Gestion de projet\n\n*   Conseil en technologie\n"
         align: left
         image: images/feature.svg
         image_position: right
