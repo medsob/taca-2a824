@@ -32,10 +32,7 @@ sections:
     title: Métiers
     features:
       - title: Conseil
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: "En fonction de vos besoin spécifique, nous vous accompagnons tout au long de vos projets dans les domaines suivants\_: \n\n⦁\tAssistance à maitrise d’ouvrage / direction de projet \n\n⦁\tArchitecture du SI \n\n⦁\tGestion de projet \n\n⦁\tConseil en technologie \n"
         align: left
         image: images/feature.svg
         image_position: right
