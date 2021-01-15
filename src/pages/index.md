@@ -49,7 +49,7 @@ sections:
           - label: En savoir plus
             url: /features
             style: secondary
-      - title: Feature 3
+      - title: Formation
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
           eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
