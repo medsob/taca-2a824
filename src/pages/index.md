@@ -71,7 +71,7 @@ sections:
             url: /features
             style: secondary
   - type: blog_feed_section
-    title: Expertises
+    title: Notre expertise
     show_recent: false
     recent_count: 3
   - type: cta_section
