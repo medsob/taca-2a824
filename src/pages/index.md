@@ -12,7 +12,7 @@ sections:
       le sens des réalités pour vous fournir des solutions personnalisées et
       adaptées à vos exigences.
     actions:
-      - label: Learn More
+      - label: En savoir plus
         url: /features
         style: primary
       - label: Contactez-nous
