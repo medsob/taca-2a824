@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: src/pages/abut.md
+  label: about
+  match: "**/*"
 - type: directory
   path: src/pages
   label: Pages
