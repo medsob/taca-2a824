@@ -5,9 +5,8 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: src/pages/abut.md
+  path: src/pages/about.md
   label: about
-  match: "**/*"
 - type: directory
   path: src/pages
   label: Pages
